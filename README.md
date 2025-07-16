@@ -1,6 +1,6 @@
 # EDA-Google-Playstore
 
-1. Project
+### Project
    
 An exploratory data analysis (EDA) project using Python to analyze mobile application data from the Google Play Store. This project uncovers trends in app categories, user ratings, reviews, pricing, and installs.
 
