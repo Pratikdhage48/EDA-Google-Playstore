@@ -4,11 +4,11 @@
    
 An exploratory data analysis (EDA) project using Python to analyze mobile application data from the Google Play Store. This project uncovers trends in app categories, user ratings, reviews, pricing, and installs.
 
-3. Description / Purpose
+### Description / Purpose
 
 The Google Play Store EDA project is designed to provide insights into the Android app ecosystem by analyzing publicly available app data. The analysis helps developers, marketers, and analysts understand app trends, user engagement patterns, and monetization strategies.
 
-3.  Tech Stack
+### Tech Stack
 
 This project was built using the following tools and technologies:
 
@@ -29,7 +29,7 @@ This project was built using the following tools and technologies:
 📁 File Format – .ipynb (Jupyter Notebook) and .csv dataset
 
 
-4. Data Source
+### Data Source
 
 Source: Kaggle - Google Play Store Apps Dataset
 
@@ -48,11 +48,11 @@ Size, Content Rating
 Genres, Last Updated, etc.
 
 
-5. Business Problem
+### Business Problem
 
 With over 3 million apps on the Play Store, identifying trends, high-performing categories, and user preferences is crucial for app developers and business strategists. Raw data alone doesn’t help in making decisions unless visualized and analyzed properly.
 
-6. Goal of the Project
+### Goal of the Project
 
 To perform an in-depth exploratory analysis of Google Play Store data to:
 
@@ -64,7 +64,7 @@ Compare free vs paid apps in terms of popularity and price
 
 Detect outliers or inconsistencies in app data
 
-7. Features / Highlights
+### Features / Highlights
    
 • Walkthrough of Key Insights
 
