@@ -93,7 +93,7 @@ Product Teams: Compare free vs paid models for monetization
 Business Strategy: Recognize gaps in the market by genre and category
 
 
-8. Some Visuals and Insights
+## Example Visuals and Insights
 
 <img width="1247" height="642" alt="top 10 app" src="https://github.com/user-attachments/assets/53e9d7e8-4aa6-4aec-86a5-1a3533cb8763" />
 
