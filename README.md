@@ -91,3 +91,30 @@ Marketers: Understand what drives installs and reviews
 Product Teams: Compare free vs paid models for monetization
 
 Business Strategy: Recognize gaps in the market by genre and category
+
+
+8. Some Visuals and Insights
+
+<img width="1247" height="642" alt="top 10 app" src="https://github.com/user-attachments/assets/53e9d7e8-4aa6-4aec-86a5-1a3533cb8763" />
+
+⭐ Insights
+
+1. Family category has the most number of apps with 18% of apps belonging to it, followed by Games category which has 11% of the apps.
+
+2. Least number of apps belong to the Beauty category with less than 1% of the total apps belonging to it.
+
+.
+
+<img width="3947" height="1499" alt="Top 5 most installed Apps in Each popular Categories" src="https://github.com/user-attachments/assets/a7181f03-8d88-4ef9-a2f8-790d32fb98f8" />
+
+⭐ Insights 
+
+## Insights
+
+1. Most popular game is Subway Surfers.
+  
+2. Most popular communication app is Hangouts.
+  
+3. Most popular productivity app is Google Drive.
+  
+4. Most popular social app is Instagram.
